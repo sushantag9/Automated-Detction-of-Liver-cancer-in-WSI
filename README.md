@@ -1,3 +1,10 @@
+
+# Automated Detction of Liver cancer in WSI
+
+This project focuses on detection and segmentation of liver cancer in WSI using parallel processing on GPU and used techniques of pruning to improve and optimize my model. The baseline of the model is Unet and Vnet. Further the model has been upgraded with a ResNet backbone and model pruning technique were also applied.
+### Technology: Python, Deep Learning, AI for Medical Analysis
+
+
 # The Minimal theme
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
@@ -65,16 +72,3 @@ If you'd like to change the theme's HTML layout:
 2. Create a file called `/_layouts/default.html` in your site
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Automated Detction of Liver cancer in WSI
-
-This project focuses on detection and segmentation of liver cancer in WSI using parallel processing on GPU and used techniques of pruning to improve and optimize my model. The baseline of the model is Unet and Vnet. Further the model has been upgraded with a ResNet backbone and model pruning technique were also applied.
-### Technology: Python, Deep Learning, AI for Medical Analysis
